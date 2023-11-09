@@ -1,0 +1,11 @@
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\bin\Debug\net7.0\ShopOnline.DomainClasses.deps.json
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\bin\Debug\net7.0\ShopOnline.DomainClasses.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\bin\Debug\net7.0\ShopOnline.DomainClasses.pdb
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\ShopOnline.DomainClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\ShopOnline.DomainClasses.AssemblyInfoInputs.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\ShopOnline.DomainClasses.AssemblyInfo.cs
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\ShopOnline.DomainClasses.csproj.CoreCompileInputs.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\ShopOnline.DomainClasses.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\refint\ShopOnline.DomainClasses.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\ShopOnline.DomainClasses.pdb
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.DomainClasses\obj\Debug\net7.0\ref\ShopOnline.DomainClasses.dll

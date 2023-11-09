@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Pages\CheckoutBase.cs" />
+    <Compile Remove="Services\Contract\IManageCartItemsLocalStorageService.cs" />
+    <Compile Remove="Services\Contract\IManageProductsLocalStorageService.cs" />
+    <Compile Remove="Services\ManageCartItemsLocalStorageService.cs" />
+    <Compile Remove="Services\ManageProductsLocalStorageService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Pages\Checkout.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Pages\DisplaySpinner.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Pages\DisplaySpinner.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.10" PrivateAssets="all" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopOnline.Models\ShopOnline.Models.csproj" />
+  </ItemGroup>
+
+</Project>

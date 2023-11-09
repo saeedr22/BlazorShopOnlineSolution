@@ -1,0 +1,11 @@
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\bin\Debug\net7.0\ShopOnline.Models.deps.json
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\bin\Debug\net7.0\ShopOnline.Models.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\bin\Debug\net7.0\ShopOnline.Models.pdb
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.AssemblyInfoInputs.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.AssemblyInfo.cs
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\refint\ShopOnline.Models.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.pdb
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Models\obj\Debug\net7.0\ref\ShopOnline.Models.dll

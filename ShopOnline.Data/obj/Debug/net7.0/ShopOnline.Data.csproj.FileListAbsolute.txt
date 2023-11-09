@@ -1,0 +1,17 @@
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\bin\Debug\net7.0\ShopOnline.Data.deps.json
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\bin\Debug\net7.0\ShopOnline.Data.runtimeconfig.json
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\bin\Debug\net7.0\ShopOnline.Data.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\bin\Debug\net7.0\ShopOnline.Data.pdb
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\bin\Debug\net7.0\ShopOnline.DomainClasses.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\bin\Debug\net7.0\ShopOnline.DomainClasses.pdb
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.csproj.AssemblyReference.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.AssemblyInfoInputs.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.AssemblyInfo.cs
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.csproj.CoreCompileInputs.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.csproj.CopyComplete
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\refint\ShopOnline.Data.dll
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.pdb
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ShopOnline.Data.genruntimeconfig.cache
+E:\Programming\Codes\BlazorShopOnlineSolution\ShopOnline.Data\obj\Debug\net7.0\ref\ShopOnline.Data.dll
